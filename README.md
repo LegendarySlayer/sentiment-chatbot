@@ -45,4 +45,4 @@ EmotionChatbot/
 
 ---
 
-💡 *Note: This project assumes your model files (config.json, tokenizer, pytorch_model.bin etc.) are already available.*
+💡 *Note: We assumes your model files (config.json, tokenizer, pytorch_model.bin etc.) are already available.*
