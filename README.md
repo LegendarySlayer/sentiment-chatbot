@@ -46,3 +46,12 @@ EmotionChatbot/
 ---
 
 💡 *Note: We assumes your model files (config.json, tokenizer, pytorch_model.bin etc.) are already available.*
+---
+
+Collaborators:
+
+GitHub: [@Hayzzy](https://github.com/Strookee)
+GitHub: [@Hayzzy](https://github.com/Brototee)
+GitHub: [@Hayzzy](https://github.com/sanyasingh09)
+GitHub: [@Hayzzy](https://github.com/Utkarsh-Jha171)
+GitHub: [@Hayzzy](https://github.com/LegendarySlayer)
